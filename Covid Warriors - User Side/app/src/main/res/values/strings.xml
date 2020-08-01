@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Covid Warriors</string>
+    <string name="get_location">Get Location</string>
+    <string name="location">Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="phone_no">Phone no:</string>
+    <string name="taluk">Taluk:</string>
+    <string name="district">District:</string>
+    <string name="state">State:</string>
+    <string name="enter">Enter</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="log_out">Log Out</string>
+
+
+    <string-array name="state">
+        <item> </item>
+        <item>Karnataka</item>
+    </string-array>
+
+
+    <string-array name="district">
+        <item> </item>
+        <item>Hassan</item>
+        <item>Shivamogga</item>
+        <item>Mysuru</item>
+
+
+    </string-array>
+
+    <string-array name="Taluk">
+        <item> </item>
+        <item>Alur</item>
+        <item>Arkalgud</item>
+        <item>Arsikere</item>
+        <item>Belur</item>
+        <item>Chennarayapatna</item>
+        <item>Hassan</item>
+        <item>Holenarsipur</item>
+        <item>Sakleshpur</item>
+
+        <item>Soraba</item>
+        <item>Bhadravathi</item>
+        <item>Thirthahalli</item>
+        <item>Sagara</item>
+        <item>Shikaripura</item>
+        <item>Shimoga</item>
+        <item>Hosanagara</item>
+
+        <item>Piriyapatna</item>
+        <item>Hunsur</item>
+        <item> KR nagara</item>
+        <item>Mysore</item>
+        <item>HD kote</item>
+        <item>Nanjangud</item>
+        <item>Saragur</item>
+        <item>T.N pura</item>
+
+    </string-array>
+
+    <string-array name="websites">
+        <item> </item>
+        <item>WHO</item>
+        <item>Corona Positives Nearby</item>
+        <item>Other Popular Webiste</item>
+    </string-array>
+</resources>

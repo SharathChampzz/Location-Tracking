@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "454051908577",
+    "firebase_url": "https://covid-warriors-ed9ec.firebaseio.com",
+    "project_id": "covid-warriors-ed9ec",
+    "storage_bucket": "covid-warriors-ed9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454051908577:android:a17fb7c41f00c926c520a0",
+        "android_client_info": {
+          "package_name": "com.example.covidwarriors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454051908577-im1kd6ade1nij9tr71mdf878laq26jiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCZxsv1ugfJY1lPD7_PtKfYPc38EN0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454051908577-im1kd6ade1nij9tr71mdf878laq26jiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454051908577:android:5c42f1dcf1eb95afc520a0",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454051908577-im1kd6ade1nij9tr71mdf878laq26jiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCZxsv1ugfJY1lPD7_PtKfYPc38EN0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454051908577-im1kd6ade1nij9tr71mdf878laq26jiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
